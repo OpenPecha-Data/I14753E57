@@ -1,0 +1,20 @@
+id: I14753E57
+default_language: en
+source: https://www.lotsawahouse.org
+initial_creation_type: web_scrap
+imported: 2023-01-04 11:31:50.107730
+last_modified: 2023-01-04 11:31:50.107740
+source_metadata:
+  collections:
+  - Chokgyur Dechen Lingpa
+  - Works of Tibetan Masters
+bases:
+  8E83:
+    title: 'Advice on Nonsectarianism (from Radiant Sunlight of the Victorious Ones''
+      Teachings: A Brief, First-Hand Account of the Liberating Life-Story of the Great
+      Emanated Treasure Revealer)'
+    base_file: 8E83.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
